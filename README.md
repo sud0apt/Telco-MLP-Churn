@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 
-  <h1>📞 Telco Churn Predictor</h1>
+  <h1>Telco Churn Predictor</h1>
   <h3><a href="https://telco-mlp-churn-5qxoceoxyoxqyvrmboi7ev.streamlit.app/" target="_blank">
     🌐 Launch the Telco Churn App
 </a></h3>
@@ -45,6 +45,9 @@
     <li>Input: Encoded categorical + scaled numeric features</li>
     <li>Output: Softmax probabilities for churn prediction</li>
   </ul>
+
+  <h2>Dataset</h2>
+  <pre><code>https://www.kaggle.com/datasets/blastchar/telco-customer-churn</code></pre>
 
 </body>
 </html>
