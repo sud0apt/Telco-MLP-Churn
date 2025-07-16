@@ -3,6 +3,9 @@
 <body>
 
   <h1>📞 Telco Churn Predictor</h1>
+  <h3><a href="https://telco-mlp-churn-5qxoceoxyoxqyvrmboi7ev.streamlit.app/" target="_blank">
+    🌐 Launch the Telco Churn App
+</a></h3>
 
   <p>A deep learning web app that predicts customer churn for a telco company using an MLP (Multi-Layer Perceptron) trained from scratch on real-world customer data.</p>
 
@@ -42,9 +45,6 @@
     <li>Input: Encoded categorical + scaled numeric features</li>
     <li>Output: Softmax probabilities for churn prediction</li>
   </ul>
-
-  <h2>📄 License</h2>
-  <p>MIT License - free to use and modify.</p>
 
 </body>
 </html>
