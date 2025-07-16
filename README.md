@@ -1,35 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Telco Churn Predictor</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2rem;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code {
-      background: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 1rem;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    a {
-      color: #2980b9;
-    }
-  </style>
-</head>
 <body>
 
   <h1>📞 Telco Churn Predictor</h1>
@@ -65,9 +35,6 @@
 
   <h2>📈 Model Training</h2>
   <pre><code>python train.py</code></pre>
-
-  <h2>📊 Sample Screenshot</h2>
-  <p><img src="https://upload.wikimedia.org/wikipedia/en/d/d6/CelcomDigi_Logo.svg" alt="CelcomDigi Logo" width="300"/></p>
 
   <h2>🧠 Model Info</h2>
   <ul>
